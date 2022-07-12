@@ -22,6 +22,7 @@ export class ServiceTutorialComponent implements OnInit {
   constructor(private dservice: DataService) { }
 
   ngOnInit(): void {
+    test test test
   }
 
 }
